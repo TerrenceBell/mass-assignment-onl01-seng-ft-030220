@@ -7,3 +7,4 @@ def initialize(attributes)
   end
 end
 end
+end
